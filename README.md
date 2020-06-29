@@ -210,46 +210,46 @@ Traditions</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(110).pdf" style="text-decoration:none;">The Astrology of the Seers</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(111).pdf" style="text-decoration:none;">The Unique Culture of the Egyptians</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(111).pdf" style="text-decoration:none;">The Spirit of Hindu Law</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(112).pdf" style="text-decoration:none;">Ancient Egyptian Literature</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(112).pdf" style="text-decoration:none;">The Rejuvenating Power of Masturbation</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(113).pdf" style="text-decoration:none;">101 Myths of the Bible: How Ancient Scribes Invented Biblical History</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(113).pdf" style="text-decoration:none;">The Strides of Vishnu</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(114).pdf" style="text-decoration:none;">Stolen Legacy: Greek Philosophy is Stolen Egyptian Philosophy</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(115).pdf" style="text-decoration:none;">Arab Culture and the Novel: Genre, Identity and Agency in Egyptian Fiction</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(114).pdf" style="text-decoration:none;">The Chaitanya Vaishnava Vedanta of Jiva Gosvami: When Knowledge Meets Devotion</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(115).pdf" style="text-decoration:none;">Being Hindu</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(116).pdf" style="text-decoration:none;">Egyptian 01 - River God</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(116).pdf" style="text-decoration:none;">Inner Tantric Yoga</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(117).pdf" style="text-decoration:none;">Liberation Square: Inside the Egyptian Revolution and the Rebirth of a Nation</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(117).pdf" style="text-decoration:none;">Hindu Mysticism</a></li>  
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(118).pdf" style="text-decoration:none;">The Book of Thoth</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(118).pdf" style="text-decoration:none;">Predictive Nirayana Sidereal Astrology Part II</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(119).pdf" style="text-decoration:none;">The Wisdom of the Egyptians</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(120).pdf" style="text-decoration:none;">The Alchemist</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(119).pdf" style="text-decoration:none;">God's Gateway: Identity and Meaning in a Hindu Pilgrimage Place</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(120).pdf" style="text-decoration:none;">The Indra Cult as Ideology:
+A Clue to Power Struggle in an Ancient Society</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(121).pdf" style="text-decoration:none;">Egyptian Myth and Legend</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(121).pdf" style="text-decoration:none;">27 TANTRAS</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(122).pdf" style="text-decoration:none;">First Steps in Egyptian Hieroglyphics: A Book for Beginners</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(122).pdf" style="text-decoration:none;">Self-Surrender (prapatti) to God in Shrivaishnavism</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(123).pdf" style="text-decoration:none;">Horrible Histories: The Awesome Egyptians</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(123).pdf" style="text-decoration:none;">Hindu Worldviews</a></li> 
     
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(124).pdf" style="text-decoration:none;">Mysteries of
-Egyptian Zodiacs and Other Riddles of Ancient History: A Guide to Dating Ancient Astronomical Data</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(124).pdf" style="text-decoration:none;">Swami Vivekananda's Rousing Call to Hindu Nation</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(125).pdf" style="text-decoration:none;">The Oxford History of the Classical World</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(125).pdf" style="text-decoration:none;">A Commentary on the Upanishads</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(126).pdf" style="text-decoration:none;"> Coming into the light: Rituals of Egyptian magick</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(126).pdf" style="text-decoration:none;"> Explaining Mantras: Ritual, Rhetoric, and the Dream of a Natural Language in Hindu Tantra</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(127).pdf" style="text-decoration:none;">Unwrapping the Pharaohs: How Egyptian Archaeology Confirms the Biblical Timeline</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(127).pdf" style="text-decoration:none;">A Hindu Critique of Buddhist Epistemology</a></li> 
     
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(128).pdf" style="text-decoration:none;">Whose Pharaohs?
-Archaeology, Museums, and Egyptian National Identity from Napoleon to World War I </a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(128).pdf" style="text-decoration:none;">Desire and Motivation in
+Indian Philosophy </a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(129).pdf" style="text-decoration:none;">The Gods of the Egyptians or Studies in Egyptian Mythology: Volume 1</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(129).pdf" style="text-decoration:none;">Seeking Mahadevi: Constructing the Identities of the Hindu Great Goddess</a></li> 
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(130).pdf" style="text-decoration:none;">Atlas of Egyptian Art</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(130).pdf" style="text-decoration:none;">Why I Killed the Mahatma: Understanding Godse's Defence</a></li> 
  
  
  
