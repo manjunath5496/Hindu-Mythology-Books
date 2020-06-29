@@ -252,6 +252,28 @@ Indian Philosophy </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(130).pdf" style="text-decoration:none;">Why I Killed the Mahatma: Understanding Godse's Defence</a></li> 
  
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(131).pdf" style="text-decoration:none;">Changing Homelands: Hindu Politics and the Partition of India</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(132).pdf" style="text-decoration:none;">Longing and Letting Go</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(133).pdf" style="text-decoration:none;">Consciousness in Indian Philosophy</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(134).pdf" style="text-decoration:none;">Hindu Goddesses: Visions of the Divine Feminine in the Hindu Religious Tradition</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(135).pdf" style="text-decoration:none;">Beyond Hindu and Muslim: Multiple Identity in Narratives from Village India</a></li> 
+    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(136).pdf" style="text-decoration:none;">WHY I AM A HINDU</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(137).pdf" style="text-decoration:none;">Shiva: Stories and Teachings from the Shiva Mahapurana</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(138).pdf" style="text-decoration:none;"> Explaining Mantras: Ritual, Rhetoric, and the Dream of a Natural Language in Hindu Tantra</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(139).pdf" style="text-decoration:none;">The Saffron Wave: Democracy and Hindu Nationalism in Modern India</a></li> 
+    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(140).pdf" style="text-decoration:none;">How I Became a Hindu: My Discovery of Vedic Dharma</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(141).pdf" style="text-decoration:none;">Poems on Life and Love in Ancient India: Hala's Sattasai</a></li> 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(142).pdf" style="text-decoration:none;">Sleep, Dreams and Spiritual Reflections</a></li> 
  
  
  
