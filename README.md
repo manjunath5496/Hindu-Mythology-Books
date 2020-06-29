@@ -274,10 +274,53 @@ Indian Philosophy </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(141).pdf" style="text-decoration:none;">Poems on Life and Love in Ancient India: Hala's Sattasai</a></li> 
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(142).pdf" style="text-decoration:none;">Sleep, Dreams and Spiritual Reflections</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(143).pdf" style="text-decoration:none;">The God Market: How Globalization is Making India More Hindu </a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(144).pdf" style="text-decoration:none;">Ramana's Arunachala: Ocean of the Grace Divine</a></li> 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(145).pdf" style="text-decoration:none;">Mahanirvana Tantra: Tantra of the Great Liberation</a></li> 
  
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(146).pdf" style="text-decoration:none;">Hitler's Priestess: Savitri Devi, the Hindu-Aryan Myth, and Neo-Nazism</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(147).pdf" style="text-decoration:none;">The Garuda Purana</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(148).pdf" style="text-decoration:none;">Planetary Influences on Human Affairs</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(149).pdf" style="text-decoration:none;">Hindu Rashtra Darshan</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(150).pdf" style="text-decoration:none;">Vedic Mathematics</a></li> 
+    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(151).pdf" style="text-decoration:none;">RAMAYANA retold</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(152).pdf" style="text-decoration:none;">Introduction to Tantra Sastra</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(153).pdf" style="text-decoration:none;"> DEVLOK with Devdutt Pattanaik</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(154).pdf" style="text-decoration:none;">Hindu Nationalism</a></li> 
+    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(155).pdf" style="text-decoration:none;">The Demon's Daughter: A Love Story from South India</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(156).pdf" style="text-decoration:none;">The Science of the Rishis: The Spiritual and Material Discoveries of the Ancient Sages of India</a></li> 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(157).pdf" style="text-decoration:none;">Memoirs of a Global Hindu</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(158).pdf" style="text-decoration:none;">Advaita Bodha Deepika, Lamp of Non-Dual Knowledge</a></li> 
+    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(159).pdf" style="text-decoration:none;">The Silent Power: Selections from
+The Mountain Path and The Call Divine</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(160).pdf" style="text-decoration:none;">Teachings of the Hindu Mystics</a></li> 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(161).pdf" style="text-decoration:none;">The Art of Questioning: Interrogations of Exceptionalist History and Cultural Mythology in the Novels of Salman Rushdie and William Faulkner</a></li> 
  
  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(162).pdf" style="text-decoration:none;">Hindu and Hindutva: Name and Nationalism</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(163).pdf" style="text-decoration:none;">JAIMINI SUTRAS</a></li> 
+    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(164).pdf" style="text-decoration:none;">Devi Mahatmyam</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(165).pdf" style="text-decoration:none;">The Hindu-Yogi Science of Breath</a></li> 
  
+
  
  </ul>
