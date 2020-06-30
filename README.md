@@ -67,7 +67,7 @@ and Religion of the Hindoos</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(35).pdf" style="text-decoration:none;">The Illustrated Encyclopedia
 of Hinduism</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(36).pdf" style="text-decoration:none;">Plundering the Egyptians: The Old Testament and Historical Criticism at Westminster Theological Seminary (1929-1998)</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(36).pdf" style="text-decoration:none;">The Guru Chronicles: The Making of the First American Satguru</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(37).pdf" style="text-decoration:none;">Void and Fullness in the Buddhist, Hindu and Christian Traditions: Sunya Purna Pleroma</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(38).pdf" style="text-decoration:none;">The Hindus: An Alternative History</a></li>
@@ -87,11 +87,12 @@ of Hinduism</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(49).pdf" style="text-decoration:none;">My Hanuman Chalisa </a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(50).pdf" style="text-decoration:none;">Sacred sexuality: ancient Egyptian tantric yoga</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(50).pdf" style="text-decoration:none;">The Hindu Kush Himalaya Assessment</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(51).pdf" style="text-decoration:none;">The Goddess as Role Model</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(52).pdf" style="text-decoration:none;">Narmadaparikrama – Circumambulation of the Narmada River</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(53).pdf" style="text-decoration:none;">Biblical Peoples And Ethnicity: An Archaeological Study of Egyptians, Canaanites, Philistines, And Early Israel 1300-1100 B.C.E </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(53).pdf" style="text-decoration:none;">Rethinking India's Oral
+and Classical Epics </a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(54).pdf" style="text-decoration:none;">The Myths and Gods of India: The Classic Work on Hindu Polytheism  </a></li>
 
@@ -152,7 +153,7 @@ Ideological Development of Hindu Revivalism</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(80).pdf" style="text-decoration:none;">Hindu Dharma: The Universal Way of Life</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(81).pdf" style="text-decoration:none;">Encyclopedia of Ancient Egypt</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(81).pdf" style="text-decoration:none;">The Archaeology of Hindu Ritual: Temples and the Establishment of the Gods</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(82).pdf" style="text-decoration:none;"> Studies in Hindu Law and Dharmasastra</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(83).pdf" style="text-decoration:none;">The Wisdom of the Hindus</a></li>
@@ -175,7 +176,7 @@ Ideological Development of Hindu Revivalism</a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(95).pdf" style="text-decoration:none;">Hindus: Their religious beliefs and practices</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(96).pdf" style="text-decoration:none;">Unexpected Links Between Egyptian And Babylonian Mathematics  </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(96).pdf" style="text-decoration:none;">A Classical Dictionary of Hindu Mythology and Religion </a></li> 
   
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(97).pdf" style="text-decoration:none;">Divine Mother, Blessed Mother: Hindu Goddesses and the Virgin Mary</a></li>
@@ -265,7 +266,7 @@ Indian Philosophy </a></li>
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(137).pdf" style="text-decoration:none;">Shiva: Stories and Teachings from the Shiva Mahapurana</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(138).pdf" style="text-decoration:none;"> Explaining Mantras: Ritual, Rhetoric, and the Dream of a Natural Language in Hindu Tantra</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(138).pdf" style="text-decoration:none;"> Hindu Gods and Goddesses</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Hindu-Mythology-Books/blob/master/hind(139).pdf" style="text-decoration:none;">The Saffron Wave: Democracy and Hindu Nationalism in Modern India</a></li> 
     
