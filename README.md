@@ -640,14 +640,14 @@
 <li><strong><a title="Varna (Hinduism)" href="https://en.wikipedia.org/wiki/Varna_(Hinduism)">Varna</a></strong></li>
 </ul>
 <ul>
-<li>
+
 <ul>
 <li><a title="Brahmin" href="https://en.wikipedia.org/wiki/Brahmin">Brahmin</a></li>
 <li><a title="Kshatriya" href="https://en.wikipedia.org/wiki/Kshatriya">Kshatriya</a></li>
 <li><a title="Vaishya" href="https://en.wikipedia.org/wiki/Vaishya">Vaishya</a></li>
 <li><a title="Shudra" href="https://en.wikipedia.org/wiki/Shudra">Shudra</a></li>
 </ul>
-</li>
+
 </ul>
 <ul>
 <li><a title="Dalit" href="https://en.wikipedia.org/wiki/Dalit">Dalit</a></li>
